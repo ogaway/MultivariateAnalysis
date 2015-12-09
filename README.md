@@ -1,2 +1,8 @@
-# MultivariateAnalysis
-Learning Multivariate Analysis in Python
+# 多変量解析
+Pythonによる多変量解析入門。
+
+## テキスト
+圓川隆夫『多変量のデータ解析』(1988年, 朝倉書店)
+
+## ノートブック
+* [主成分分析]()
