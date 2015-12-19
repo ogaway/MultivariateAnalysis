@@ -7,3 +7,4 @@ Pythonによる多変量解析入門。
 ## ノートブック
 * [主成分分析](http://nbviewer.ipython.org/github/ogaway/MultivariateAnalysis/blob/master/PCA.ipynb)  
 * [因子分析](http://nbviewer.ipython.org/github/ogaway/MultivariateAnalysis/blob/master/FA.ipynb)
+* [多次元尺度構成法](http://nbviewer.ipython.org/github/ogaway/MultivariateAnalysis/blob/master/MDS.ipynb)
